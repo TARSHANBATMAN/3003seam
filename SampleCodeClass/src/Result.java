@@ -34,9 +34,11 @@ public class Result {
         System.out.println("Testing");
     }
 
-    void myTest(){
-        System.out.println("Testing");
-    }
+    void Jiahao()
+
+=======
+
+    int countAll() { return 0; }
 
        void myTest12345(){
         System.out.println("Testing12345");
