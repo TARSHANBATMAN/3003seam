@@ -39,7 +39,7 @@ public class Result {
     }
 
        void myTest12345(){
-        System.out.println("Testing123456");
+        System.out.println("Testing12345");
     }
 
 
