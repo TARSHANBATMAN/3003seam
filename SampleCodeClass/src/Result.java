@@ -38,4 +38,9 @@ public class Result {
         System.out.println("Testing");
     }
 
+       void myTest12345(){
+        System.out.println("Testing12345");
+    }
+
+
 }
